@@ -39,5 +39,5 @@ This project is open-source under the MIT License.
 
 ---
 ### Contact
-For any questions or collaboration, reach out via [your contact email or link].
+For any questions or collaboration, reach out via [manjeetdhiman2611@gmail.com].
 
